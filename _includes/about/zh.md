@@ -5,7 +5,7 @@
 Hi, 我是谢扬琛，华东师范大学LPAIS实验室的一员，研究兴趣包括GAN，图像翻译，字体生成等。
 
 # CV
-<img src="/img/xyc_CV.png" alt="图片无法加载时显示的文字">
+<img src="/img/xyc_CV.png" style="zoom:50%" alt="图片无法加载时显示的文字">
 
 ##### [我的Github地址🚧)](https://github.com/ecnuycxie)
 
